@@ -31,8 +31,8 @@ Program to print the text “Implicitintent”.
 
 Developed by: NIVESHA P
 
-Registeration Number :  212222040108
-*/
+Register Number :  212222040108
+
 
 ## MainActivity.java:
 ```
