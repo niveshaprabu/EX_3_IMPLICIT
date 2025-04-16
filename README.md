@@ -9,7 +9,6 @@ To design an Android application with a TextField and a button labeled "Open in 
 Latest Version Android Studio
 
 ## ALGORITHM:
-
 Step 1: Open Android Stdio and then click on File -> New -> New project.
 
 Step 2: Then type the Application name as implicitintent and click Next.
@@ -26,15 +25,15 @@ Step 7: Save and run the application.
 
 
 ## PROGRAM:
+```
 /*
 Program to print the text “Implicitintent”.
-
-Developed by: NIVESHA P
-
-Register Number :  212222040108
-
-
+Developed by:NIVESHA P
+Registeration Number :212222040108
+*/
+```
 ## MainActivity.java:
+
 ```
 package com.example.Exp_3;
 
@@ -68,7 +67,9 @@ public class MainActivity extends AppCompatActivity {
     }
 }
 ```
+
 ## activitymain.xml:
+
 ```
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout
@@ -97,15 +98,12 @@ public class MainActivity extends AppCompatActivity {
 
 ## OUTPUT
 
-![mad exp3 a](https://github.com/user-attachments/assets/a079e656-321b-4244-b709-b7cc8f4d69c8)
+![MAD EX-3(1)](https://github.com/user-attachments/assets/526e77b6-79fc-4f25-86ae-7ca4ee37ec65)
 
+![MAD EXP-3(2)](https://github.com/user-attachments/assets/f25e7a82-e12b-4f13-a3e2-f92730c0ce88)
 
-![mad exp3 b](https://github.com/user-attachments/assets/f303a3c6-761a-4cac-8614-fb9bafe68052)
-
-
-![mad exp3 c](https://github.com/user-attachments/assets/a61ab61d-6170-4624-a35b-2a6b54f17592)
+![MAD EX-3](https://github.com/user-attachments/assets/ad3f0e7c-9dcc-49a8-b4be-af4dc391885f)
 
 ## RESULT
 Thus a Simple Android Application create a navigate button using Implicit Intent to display the web page using Android Studio was developed and executed successfully.
-
 
